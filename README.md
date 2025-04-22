@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John.
 - 👀 I’m interested in learning, coding and problem solving.
-- 🌱 I’m currently learning (or re-liearing) Java, Ruby, C#, Python 3
+- 🌱 I’m currently learning (or re-learning) Java, Ruby, C#, Python 3
 - 📫 You can email me at developer@john-breen.net
 
 <!---
